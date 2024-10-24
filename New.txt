@@ -1,2 +1,3 @@
 Some text
 Add text
+Updated text
