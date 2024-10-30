@@ -1,7 +1,8 @@
 Some text
 Add text
-
+<<<<<<< HEAD
 
 Let's update
 =======
-
+Updated text
+>>>>>>> 2c89126e506ebc9de3ab2f33ca213fa6e2513808
